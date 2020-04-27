@@ -1,2 +1,3 @@
 # hello-vijay
-i am new leaner
+i am Good Learner,
+i can Study & come out with different ideas!
